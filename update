@@ -6,7 +6,7 @@
   "updateButtonLink": "https://wa.me/201202230265",
   "updateButtonGradientStartColor": "#1E88E5",
   "updateButtonGradientEndColor": "#64B5F6",
-  "cancelButtonText": "إلغاء",
+  "cancelButtonText": "خروج",
   "cancelClosesApp": true,
   "cancelButtonGradientStartColor": "#1E88E5",
   "cancelButtonGradientEndColor": "#64B5F6",
