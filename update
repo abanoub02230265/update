@@ -1,9 +1,9 @@
 {
   "showDialog": true,
   "appVersionCode": 1000800,
-  "messageText": "تم إطلاق تحديث جديد للنسخه المهكره",
-  "updateButtonText": "تحديث",
-  "updateButtonLink": "https://google.com",
+  "messageText": "الفترة التجريبية المجانية لهذهي النسخة انتهت. لتفعيل الاشتراك، تواصل مع المطور مزاجنجي",
+  "updateButtonText": "راسل المطور",
+  "updateButtonLink": "https://wa.me/201202230265",
   "updateButtonGradientStartColor": "#1E88E5",
   "updateButtonGradientEndColor": "#64B5F6",
   "cancelButtonText": "إلغاء",
