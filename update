@@ -1,16 +1,16 @@
 {
   "showDialog": true,
   "appVersionCode": 10001000,
-  "messageText": "الفترة التجريبية المجانية لهذهي النسخة انتهت. لتفعيل الاشتراك، تواصل مع المطور مزاجنجي",
-  "updateButtonText": "راسل المطور",
+  "messageText": "⏳ الفترة التجريبية المجانية انتهت! 🔒 لتفعيل الاشتراك والاستمتاع بكل المميزات، تواصل الآن مع المطور مزاجنجي 💬",
+  "updateButtonText": "📩 راسل المطور",
   "updateButtonLink": "https://wa.me/201202230265",
-  "updateButtonGradientStartColor": "#1E88E5",
-  "updateButtonGradientEndColor": "#64B5F6",
-  "cancelButtonText": "خروج",
+  "updateButtonGradientStartColor": "#FFD700",
+  "updateButtonGradientEndColor": "#FFA500",
+  "cancelButtonText": "❌ خروج",
   "cancelClosesApp": true,
-  "cancelButtonGradientStartColor": "#1E88E5",
-  "cancelButtonGradientEndColor": "#64B5F6",
-  "textGradientStartColor": "#1E88E5",
-  "textGradientEndColor": "#64B5F6",
-  "dialogBackgroundColor": "#FFFFFF"
+  "cancelButtonGradientStartColor": "#FF4E50",
+  "cancelButtonGradientEndColor": "#F9D423",
+  "textGradientStartColor": "#FFFFFF",
+  "textGradientEndColor": "#FFD700",
+  "dialogBackgroundColor": "linear-gradient(#6A11CB, #2575FC)"
 }
